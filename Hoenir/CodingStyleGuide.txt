@@ -1,0 +1,12 @@
+
+This is intended to be a guide defining rules for naming conventions.
+
+1. Classes, functions, structures, types will be named using PascalCase
+
+2. variables will be named with snake_case
+
+3. parameters will be distinguished with 'in_' such as: in_snake_case
+
+4. any time commas are used as separators strongly consider putting each segment on its own line to improve readability
+
+In this project several data types are renamed with the 'using' keyword. please refer to CommonTypes.h next
