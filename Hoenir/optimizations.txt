@@ -1,0 +1,4 @@
+
+Look into optimizing GenerateMoves by reducing number of memory allocations
+
+replace instances of string += string with stream << string and stream.str()
