@@ -14,6 +14,7 @@ Project is in early stages, README still in development
 
 ## Features
 
+Currently in development
 
 ## Getting Started
 
@@ -29,4 +30,4 @@ This is a project for me to learn and show my skill. Thank you for your interest
 
 ## License
 
-This project is licensed under the
+This project is licensed under the [MIT License](https://github.com/NKjerland/Hoenir/blob/master/LICENSE.txt)
